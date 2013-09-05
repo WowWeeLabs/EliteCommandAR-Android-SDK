@@ -1,7 +1,7 @@
 Elite CommandAR Pistol Android SDK
 =======================
 
-The ECAR Android SDK lets you use receive button presses from your [ECAR pistol](http://appgear.com/en/games/elite-commandar).
+The ECAR Android SDK lets you receive button presses from your [ECAR pistol](http://appgear.com/en/games/elite-commandar).
 
 Documentation of the SDK is available here: http://www.wowweelabs.com/ecar/android/docs/index.html
 
