@@ -1,22 +1,25 @@
-Elite CommandAR Pistol Android SDK
+Elite CommandAR Android SDK
 =======================
 
-The ECAR Android SDK lets you receive button presses from your [ECAR pistol](http://appgear.com/en/games/elite-commandar).
+The EliteCommandAR Android SDK lets you receive button presses from your [Elite CommandAR pistol](http://appgear.com/en/games/elite-commandar).
 
 Documentation of the SDK is available here: http://www.wowweelabs.com/ecar/android/docs/index.html
 
-Support is available at the RoboCommunity forums: http://www.robocommunity.com/.
+Support is available at the RoboCommunity forums: http://www.robocommunity.com/
 
-For iOS or Unity SDKs visit: http://www.wowweelabs.com/.
+For iOS or Unity SDKs visit: http://www.wowweelabs.com/
 
-For information on WowWee products visit: http://www.wowwee.com/.
+For information on WowWee products visit: http://www.wowwee.com/
 
 Getting Started
 ---------------------------------------
 
-Download the [ECAR Android SDK](https://github.com/WowWeeLabs/ECAR-Android-SDK).
+Download the [EliteCommandAR Android SDK](https://github.com/WowWeeLabs/EliteCommandAR-Android-SDK).
 
-The quickest way to get started is to open the sample app under the SampleProject directory. The ECAR sample app starts listening to events from the gun and prints these to the text view.
+The quickest way to get started is to open the sample app under the SampleProject directory. The sample app starts listening to events from the gun and prints these to the text view.
+
+In Eclipse import the sample project by clicking Edit->Import then selecting Android / Existing Android code into workspace.
+
 
 Creating your own app using the ECAR Android SDK
 ---------------------------------------------------
@@ -91,4 +94,4 @@ Next steps:
 License
 -----------------------------------------------
 
-ECAR Android SDK is available under the Apache License, Version 2.0 license. See the LICENSE.txt file for more info.
+EliteCommandAR Android SDK is available under the Apache License, Version 2.0 license. See the LICENSE.txt file for more info.
