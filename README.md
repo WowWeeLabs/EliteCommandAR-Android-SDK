@@ -3,13 +3,13 @@ Elite CommandAR Android SDK
 
 The EliteCommandAR Android SDK lets you receive button presses from your [Elite CommandAR pistol](http://appgear.com/en/games/elite-commandar).
 
-Documentation of the SDK is available here: http://www.wowweelabs.com/ecar/android/docs/index.html
+Documentation of the SDK is available here: http://www.wowweelabs.com/SDKs/ECAR/Android/index.html
 
-Support is available at the RoboCommunity forums: http://www.robocommunity.com/
+Support is available at the RoboCommunity forums: http://www.robocommunity.com
 
-For iOS or Unity SDKs visit: http://www.wowweelabs.com/
+For iOS or Unity SDKs visit: http://www.wowweelabs.com
 
-For information on WowWee products visit: http://www.wowwee.com/
+For information on WowWee products visit: http://www.wowwee.com
 
 Getting Started
 ---------------------------------------
